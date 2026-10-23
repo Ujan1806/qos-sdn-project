@@ -1,0 +1,3 @@
+[*] Starting VOICE sender -> 10.0.0.4:5001
+[*] Target Rate: 1.0 Mbps | Packet Size: 250B | Duration: 10.0s
+[+] Finished VOICE: Sent 4999 packets (1249750 bytes) in 10.00s (~1.00 Mbps)

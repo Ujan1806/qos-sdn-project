@@ -1,0 +1,10 @@
+Experiment,Traffic Class,Port,Throughput (Mbps),Loss (%),Avg Latency (ms),Jitter (ms),Jains Fairness
+Baseline (No QoS),VOICE,5001,0.4,59.14,168.53,2.92,0.7581
+Baseline (No QoS),VIDEO,5002,1.54,60.6,168.67,3.1,0.7581
+Baseline (No QoS),BULK,5003,2.39,59.34,168.96,3.04,0.7581
+Static QoS,VIDEO,5002,2.74,13.16,1954.15,2.32,0.7409
+Static QoS,BULK,5003,0.75,0.0,6027.85,13.51,0.7409
+Static QoS,VOICE,5001,1.0,0.0,6.98,1.19,0.7409
+Dynamic QoS,VIDEO,5002,2.93,3.63,1962.83,848.51,0.6216
+Dynamic QoS,VOICE,5001,0.67,28.19,1082.01,3.42,0.6216
+Dynamic QoS,BULK,5003,0.58,0.0,6060.64,17.84,0.6216

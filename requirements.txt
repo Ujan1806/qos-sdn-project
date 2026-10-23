@@ -1,0 +1,12 @@
+# Python dependencies for QoS Traffic Management System
+ryu>=4.34
+eventlet>=0.41.0
+dnspython>=2.0.0
+greenlet>=3.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+WebOb>=1.8.0
+msgpack>=1.0.0
+routes>=2.5.0
+ovs>=3.0.0

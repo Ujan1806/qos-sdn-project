@@ -1,0 +1,4 @@
+timestamp,traffic_class,port,packets_received,packets_lost,loss_percent,throughput_mbps,avg_latency_ms,min_latency_ms,max_latency_ms,jitter_ms
+2026-10-23 20:14:16,VIDEO,5002,4429,671,13.16,2.74,1954.15,3.22,2979.86,2.32
+2026-10-23 20:14:16,BULK,5003,873,0,0.00,0.75,6027.85,4.25,11303.89,13.51
+2026-10-23 20:14:16,VOICE,5001,6000,0,0.00,1.00,6.98,2.26,195.72,1.19

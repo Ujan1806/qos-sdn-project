@@ -1,0 +1,3 @@
+[*] Starting VIDEO sender -> 10.0.0.4:5002
+[*] Target Rate: 4.0 Mbps | Packet Size: 1000B | Duration: 12.0s
+[+] Finished VIDEO: Sent 6000 packets (6000000 bytes) in 12.00s (~4.00 Mbps)

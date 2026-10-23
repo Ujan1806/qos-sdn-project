@@ -1,0 +1,10 @@
+[*] UDP Receiver listening on port 5003 for class BULK (Duration: 14.0s)...
+
+================ Metrics for BULK (Port 5003) ================
+  Packets Received  : 773
+  Packets Lost      : 0 (0.00%)
+  Throughput        : 0.58 Mbps
+  Avg Latency       : 6060.64 ms (min: 5.18 ms, max: 13606.70 ms)
+  Avg Jitter        : 17.84 ms
+========================================================================
+
