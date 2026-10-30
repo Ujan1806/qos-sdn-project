@@ -1,10 +1,10 @@
 [*] UDP Receiver listening on port 5002 for class VIDEO (Duration: 12.0s)...
 
 ================ Metrics for VIDEO (Port 5002) ================
-  Packets Received  : 4429
-  Packets Lost      : 671 (13.16%)
-  Throughput        : 2.74 Mbps
-  Avg Latency       : 1954.15 ms (min: 3.22 ms, max: 2979.86 ms)
-  Avg Jitter        : 2.32 ms
+  Packets Received  : 3071
+  Packets Lost      : 1229 (28.58%)
+  Throughput        : 1.89 Mbps
+  Avg Latency       : 2855.34 ms (min: 3.45 ms, max: 4945.99 ms)
+  Avg Jitter        : 4.36 ms
 ========================================================================
 

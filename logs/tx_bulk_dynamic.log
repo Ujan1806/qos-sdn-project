@@ -1,3 +1,3 @@
 [*] Starting BULK sender -> 10.0.0.4:5003
-[*] Target Rate: 6.0 Mbps | Packet Size: 1400B | Duration: 14.0s
-[+] Finished BULK: Sent 7498 packets (10497200 bytes) in 14.00s (~6.00 Mbps)
+[*] Target Rate: 6.0 Mbps | Packet Size: 1400B | Duration: 15.0s
+[+] Finished BULK: Sent 8030 packets (11242000 bytes) in 15.00s (~6.00 Mbps)

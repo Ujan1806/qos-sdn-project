@@ -1,10 +1,10 @@
-[*] UDP Receiver listening on port 5001 for class VOICE (Duration: 14.0s)...
+[*] UDP Receiver listening on port 5001 for class VOICE (Duration: 15.0s)...
 
 ================ Metrics for VOICE (Port 5001) ================
-  Packets Received  : 4990
-  Packets Lost      : 1959 (28.19%)
-  Throughput        : 0.67 Mbps
-  Avg Latency       : 1082.01 ms (min: 2.40 ms, max: 5691.90 ms)
-  Avg Jitter        : 3.42 ms
+  Packets Received  : 4691
+  Packets Lost      : 2508 (34.84%)
+  Throughput        : 0.59 Mbps
+  Avg Latency       : 1200.68 ms (min: 2.38 ms, max: 6971.92 ms)
+  Avg Jitter        : 4.21 ms
 ========================================================================
 
